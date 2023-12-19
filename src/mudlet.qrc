@@ -120,6 +120,7 @@
         <file>icons/help-hint.png</file>
         <file>icons/imperian_120_30.png</file>
         <file>icons/import.png</file>
+        <file>icons/infinity_480x120.png</file>
         <file>icons/internet-telephony.png</file>
         <file>icons/legendsofthejedi_120x30.png</file>
         <file>icons/luminari_icon.png</file>
@@ -215,6 +216,6 @@
         <file>ui/module_manager.ui</file>
         <file>ui/package_manager.ui</file>
         <file>ui/package_manager_unpack.ui</file>
-        <file>ui/set_room_area.ui</file>
+        <file>ui/set_room_area.ui</file>        
     </qresource>
 </RCC>

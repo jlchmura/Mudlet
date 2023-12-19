@@ -595,6 +595,19 @@ qsl("<a href='https://abandonedrealms.com'>Website</a><br>"
                  "Unsere freundliche Spielerschaft hilft Dir gerne bei Deinen ersten Schritten."
                  "\n\n"
                  "Spiel jetzt oder nie!")},
+
+            {qsl("Infinity LPMud"),
+             qsl("infinitymud.net"),
+             4242,
+             false,
+             qsl("<a href='https://infinitymud.net/'>infinitymud.net</a>"),
+             qsl(":/icons/infinity_480x120.png"),
+             qsl("Prepare to immerse yourself in a land between times and dimensions, "
+                 "an LPMud based on a city that allows entry into any number of timelines. "
+                 "Infinity LPMud provides willing adventurers and questseekers with a "
+                 "venue of original ideas, mind boggling quests, and bloodcurdling "
+                 "beasts, spinning into realms of power, magic, and technology, "
+                 "and many players with which to share your adventures.")},
             };
     // clang-format on
 };
